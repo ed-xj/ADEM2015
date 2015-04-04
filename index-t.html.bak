@@ -1,0 +1,2115 @@
+<!DOCTYPE html>
+<!--[if IE 9]>
+<html class="ie9"> <![endif]-->
+<!--[if !IE]><!-->
+<html lang="en" xmlns="http://www.w3.org/1999/html" xmlns="http://www.w3.org/1999/html"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <title>ADEM - Unlimited Possibilities in Engineering</title>
+    <meta name="description"
+          content=" We provide turnkey solutions from design and prototype to high volume production.  In addition, ADEM will help with the design and manufacturing of special and/or automated fixtures for your assembly lines. ">
+    <meta name="author" content="ADEM LLC">
+
+    <!--[if IE]>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"> <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="css/fonts.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/animate.css">
+    <link rel="stylesheet" href="css/YTPlayer.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
+
+    <!-- Favicon and Apple Icons -->
+    <link rel="shortcut icon" href="images/ADEM/favicon.png">
+    <link rel="apple-touch-icon" sizes="57x57" href="images/ADEM/faviconx.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="images/ADEM/faviconx.png">
+
+    <!--- jQuery -->
+    <script src="js/jquery-1.11.1.min.js"></script>
+
+    <!-- Queryloader -->
+    <script src="js/queryloader2.min.js"></script>
+
+    <!-- Modernizr -->
+    <script src="js/modernizr.js"></script>
+
+
+</head>
+<body data-spy="scroll" data-target="#main-menu">
+<div class="geass-loader-overlay left"></div>
+<!-- End .geass-loader-overlay left -->
+<div class="geass-loader-overlay right"></div>
+<!-- End .geass-loader-overlay right -->
+<div id="wrapper">
+
+<!-- Header / Menu Section -->
+<header id="header" class="transparent">
+    <nav class="navbar navbar-default navbar-transparent" role="navigation">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-menu">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand navbar-brand-img" href="index.html"><img src="images/ADEM/ADEM-LOGO-Y.png"
+                                                                                class="img-responsive logo-white"
+                                                                                alt="logo"><img
+                        src="images/ADEM/ADEM-LOGO-G.png" class="img-responsive logo-fixed" alt="logo"></a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse navbar-right" id="main-menu">
+                <ul class="nav navbar-nav">
+                    <li class="active"><a href="#home">Home</a></li>
+                    <li><a href="#aboutus">About</a></li>
+                    <li><a href="#equipment">Equipment</a></li>
+                    <li><a href="#services">Services</a></li>
+                    <li><a href="#portfolio">Portfolio</a></li>
+
+
+                    <li><a href="#contactus">Contact</a></li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+</header>
+
+<!-- Home Section -->
+<section id="home" class="videobg player section parallax"
+         data-property="{videoURL:'http://youtu.be/4JvAHpOEUJo',containment:'#home',startAt:0,mute:false,autoPlay:true,loop:false,opacity:1}">
+    <div class="vcenter-container">
+        <div class="vcenter">
+            <div id="home-text-slider">
+                <div class="owl-carousel home-text-slider">
+                    <div class="text"><span>Precision <span class="yellow-color">Manufacturing</span></span></div>
+                    <!-- End .slide-text -->
+                    <div class="text"><span>Engineering <span class="lightblue-color"> & Prototyping</span></span></div>
+                    <!-- End .slide-text -->
+                    <div class="text"><span>Innovative <span class="yellow-color">Team</span></span></div>
+                    <!-- End .slide-text -->
+                    <div class="text"><span>Micro <span class="lightgreen-color">Machining</span></span></div>
+                    <!-- End .slide-text -->
+                </div>
+                <!-- End. .home-text-slider -->
+            </div>
+            <!-- End. .home-text-slider-container -->
+        </div>
+    </div>
+</section>
+<!-- End #home -->
+
+<!-- About Us Section -->
+<section id="aboutus" class="section">
+    <header class="container text-center">
+        <h1 class="section-title">About Us</h1>
+    </header>
+</section>
+<div class="container">
+    <div class="row">
+
+
+        <div class="col-md-6 col-sm-6 col-xs-12">
+
+            <p><img src="images/ADEM/Sample-part-1-s.jpg" alt="Sample1"
+                    class="wow bounceIn pull-right lg-separator-right2x" data-wow-delay="0.9s">
+                Located in a 30,000 s.f. facility in Silicon Valley, California, ADEM (Advanced Desing, Engineering & Manufacturing), LLC was
+                established in 1997 and quickly earned the reputation as an advanced center of innovative technologies
+                and hi-tech solutions.
+            </p>
+
+            <p> It is a unique company that offers not only manufacturing and assembly, but also superb design and
+                engineering services. We provide turnkey solutions from design and prototype to high volume production.
+            </p>
+
+
+        </div>
+        <!-- End .col-md-6 -->
+
+        <div class="col-md-6 col-sm-6 col-xs-12">
+            <p>
+
+                In addition, ADEM will help with the design and manufacturing of special and/or automated fixtures for
+                your assembly lines. As your manufacturing partner, ADEM will work with your engineering staff to
+                develop production
+                plans and provide parts that are accurate, on time, and within your budget. </p>
+
+            <p>Also, notably, we have close relationships with material suppliers and welding and finishing shops; as a
+                result, ADEM is able to maintain a quick
+                lead-time and competitive-priced even with small volume manufacturing for your prototyping or pilot
+                production. We support a number of diverse markets including Semiconductor Equipment, Robotic Automation, Aerospace, Defense,
+                Scientific Instruments, Medical and the Energy industry.
+            </p>
+
+
+        </div>
+        <!-- End .col-md-6 -->
+
+    </div>
+    <div class="row">
+
+        <div class="col-md-3 col-xs-6 member-container">
+            <div class="member member-second">
+                <figure>
+                    <img src="images/ADEM/ADEM-work-floor.jpg" alt="ADEM floor" class="img-responsive">
+                </figure>
+                <div class="member-overlay">
+                    <div class="vcenter-container">
+                        <div class="vcenter">
+                            <h2>ADEM Floor</h2>
+
+                            <p>View 1</p>
+                            <hr>
+
+                        </div>
+                        <!-- End .vcenter -->
+                    </div>
+                    <!-- End .vcenter-container -->
+                </div>
+                <!-- End .member-overlay -->
+            </div>
+            <!-- End .member -->
+        </div>
+        <!-- End .col-md-3 -->
+
+        <div class="col-md-3 col-xs-6 member-container">
+            <div class="member member-second">
+                <figure>
+                    <img src="images/ADEM/ADEM-floor-6.jpg" alt="ADEM floor" class="img-responsive">
+                </figure>
+                <div class="member-overlay">
+                    <div class="vcenter-container">
+                        <div class="vcenter">
+                            <h2>ADEM Floor</h2>
+
+                            <p>View 2</p>
+                            <hr>
+
+                        </div>
+                        <!-- End .vcenter -->
+                    </div>
+                    <!-- End .vcenter-container -->
+                </div>
+                <!-- End .member-overlay -->
+            </div>
+            <!-- End .member -->
+        </div>
+        <!-- End .col-md-3 -->
+
+        <div class="col-md-3 col-xs-6 member-container">
+            <div class="member member-second">
+                <figure>
+                    <img src="images/ADEM/ADEM-floor-3.jpg" alt="steve" class="img-responsive">
+                </figure>
+                <div class="member-overlay">
+                    <div class="vcenter-container">
+                        <div class="vcenter">
+                            <h2>ADEM Floor</h2>
+
+                            <p>View 3</p>
+                            <hr>
+
+                        </div>
+                        <!-- End .vcenter -->
+                    </div>
+                    <!-- End .vcenter-container -->
+                </div>
+                <!-- End .member-overlay -->
+            </div>
+            <!-- End .member -->
+        </div>
+        <!-- End .col-md-3 -->
+
+        <div class="col-md-3 col-xs-6 member-container">
+            <div class="member member-second">
+                <figure>
+                    <img src="images/ADEM/ADEM-floor-4.jpg" alt="jane" class="img-responsive">
+                </figure>
+                <div class="member-overlay">
+                    <div class="vcenter-container">
+                        <div class="vcenter">
+                            <h2>ADEM Floor</h2>
+
+                            <p>View 4</p>
+                            <hr>
+
+                        </div>
+                        <!-- End .vcenter -->
+                    </div>
+                    <!-- End .vcenter-container -->
+                </div>
+                <!-- End .member-overlay -->
+            </div>
+            <!-- End .member -->
+        </div>
+        <!-- End .col-md-3 -->
+
+    </div>
+    <!-- End .row -->
+
+
+</div>
+
+
+<!-- equipment  Section -->
+<section id="equipment" class="section">
+<header class="container text-center">
+    <h1 class="section-title">Equipment</h1>
+</header>
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6 col-sm-6">
+            <p>
+                Using the most advanced CAD tools, ADEM´s engineering department develops high-quality prototype
+                systems. We have extensive experience with a variety of applications and with the latest CNC technology.
+                Our facility is equipped with the most novel CNC machine tools, enabling close-tolerance
+
+            </p>
+
+        </div>
+        <!-- End .col-md-6 -->
+
+        <div class="md-margin visible-xs clearfix"></div>
+        <!-- space -->
+        <div class="col-md-6 col-sm-6">
+            <p>
+
+                work (±.0001") on a wide variety of materials, plastics and machinable ceramics. We can accept various
+                electronic files (solid models, DFX, etc.) and, after a prototype run, we are able to provide the
+                manufacturing drawings.
+            </p>
+        </div>
+        <!-- End .col-md-6 -->
+
+    </div>
+</div>
+
+<br>
+
+<div class="container">
+<div class="row">
+    <div class="col-md-3 col-xs-6 member-container">
+        <div class="member left">
+            <div class="member-wrapper">
+                <figure class="front">
+                    <img src="images/ADEM/Matsuura-H-Plus-300-Horizontal-Machining-Center" alt="Machining Center"
+                         class="img-responsive">
+                </figure>
+                <div class="back">
+                    <div class="vcenter-container">
+                        <div class="vcenter">
+                            <h2>Matsuura</h2>
+                            <hr>
+                            <p>Automatic cell with pallet system</p>
+
+                        </div>
+                        <!-- End .vcenter -->
+                    </div>
+                    <!-- End .vcenter-container -->
+
+                </div>
+                <!-- End .back -->
+            </div>
+            <!-- End .member-wrapper -->
+        </div>
+        <!-- End .member -->
+    </div>
+    <!-- End .col-md-3 -->
+
+    <div class="col-md-3 col-xs-6 member-container">
+        <div class="member left">
+            <div class="member-wrapper">
+                <figure class="front">
+                    <img src="images/ADEM/Makino-U3-WireEDM-1.jpg" alt="Makino Wire EDM" class="img-responsive">
+                </figure>
+                <div class="back">
+                    <div class="vcenter-container">
+                        <div class="vcenter">
+                            <h2>Makino</h2>
+                            <hr>
+                            <p>Wire EDM Machine</p>
+
+                        </div>
+                        <!-- End .vcenter -->
+                    </div>
+                    <!-- End .vcenter-container -->
+
+                </div>
+                <!-- End .back -->
+            </div>
+            <!-- End .member-wrapper -->
+        </div>
+        <!-- End .member -->
+    </div>
+    <!-- End .col-md-3 -->
+
+    <div class="col-md-3 col-xs-6 member-container">
+        <div class="member right">
+            <div class="member-wrapper">
+                <figure class="front">
+                    <img src="images/ADEM/A51nx-horizontal-machining-center.jpg" alt="a51nx Horizontal Machining 4 Axis"
+                         class="img-responsive">
+                </figure>
+                <div class="back">
+                    <div class="vcenter-container">
+                        <div class="vcenter">
+                            <h2>Makino</h2>
+                            <hr>
+                            <p>a51nx Horizontal Machining 4 Axis</p>
+
+                        </div>
+                        <!-- End .vcenter -->
+                    </div>
+                    <!-- End .vcenter-container -->
+
+                </div>
+                <!-- End .back -->
+            </div>
+            <!-- End .member-wrapper -->
+        </div>
+        <!-- End .member -->
+    </div>
+    <!-- End .col-md-3 -->
+
+    <div class="col-md-3 col-xs-6 member-container">
+        <div class="member right">
+            <div class="member-wrapper">
+                <figure class="front">
+                    <img src="images/ADEM/Enshu-JE-80.jpg" alt="Enshu JE80" class="img-responsive">
+                </figure>
+                <div class="back">
+                    <div class="vcenter-container">
+                        <div class="vcenter">
+                            <h2>Enshu</h2>
+                            <hr>
+                            <p>Horizontal Machining Centers</p>
+
+                        </div>
+                        <!-- End .vcenter -->
+                    </div>
+                    <!-- End .vcenter-container -->
+
+                </div>
+                <!-- End .back -->
+            </div>
+            <!-- End .member-wrapper -->
+        </div>
+        <!-- End .member -->
+    </div>
+    <!-- End .col-md-3 -->
+
+</div>
+<!-- End .row -->
+<div class="row">
+
+<div class="col-md-3 col-xs-6 member-container">
+    <div class="member left">
+        <div class="member-wrapper">
+            <figure class="front">
+                <img src="images/ADEM/duravertical-5100-m1-jpg-data.jpg" alt="Machining Center" class="img-responsive">
+            </figure>
+            <div class="back">
+                <div class="vcenter-container">
+                    <div class="vcenter">
+                        <h2>MORI-SEIKI</h2>
+                        <hr>
+                        <p>Vertical Machining Centers</p>
+                    </div>
+                    <!-- End .vcenter -->
+                </div>
+                <!-- End .vcenter-container -->
+
+            </div>
+            <!-- End .back -->
+        </div>
+        <!-- End .member-wrapper -->
+    </div>
+    <!-- End .member -->
+</div>
+<!-- End .col-md-3 -->
+
+<div class="col-md-3 col-xs-6 member-container">
+    <div class="member left">
+        <div class="member-wrapper">
+            <figure class="front">
+                <img src="images/ADEM/YCM-XV1020.JPG" alt="Makino Wire EDM" class="img-responsive">
+            </figure>
+            <div class="back">
+                <div class="vcenter-container">
+                    <div class="vcenter">
+                        <h2>YCM</h2>
+                        <hr>
+                        <p>Vertical Machining Centers</p>
+
+                    </div>
+                    <!-- End .vcenter -->
+                </div>
+                <!-- End .vcenter-container -->
+
+            </div>
+            <!-- End .back -->
+        </div>
+        <!-- End .member-wrapper -->
+    </div>
+    <!-- End .member -->
+</div>
+<!-- End .col-md-3 -->
+
+<div class="col-md-3 col-xs-6 member-container">
+    <div class="member right">
+        <div class="member-wrapper">
+            <figure class="front">
+                <img src="images/ADEM/Arika-Seiki-performa_v4_2.jpg" alt="a51nx Horizontal Machining 4 Axis"
+                     class="img-responsive">
+            </figure>
+            <div class="back">
+                <div class="vcenter-container">
+                    <div class="vcenter">
+                        <h2>Arika Seiki</h2>
+                        <hr>
+                        <p>Vertical Machining Centers</p>
+
+                    </div>
+                    <!-- End .vcenter -->
+                </div>
+                <!-- End .vcenter-container -->
+
+            </div>
+            <!-- End .back -->
+        </div>
+        <!-- End .member-wrapper -->
+    </div>
+    <!-- End .member -->
+</div>
+<!-- End .col-md-3 -->
+
+<div class="col-md-3 col-xs-6 member-container">
+    <div class="member right">
+        <div class="member-wrapper">
+            <figure class="front">
+                <img src="images/ADEM/dbe0953388-Fanuc-robotdrill.jpg" alt="Enshu JE80" class="img-responsive">
+            </figure>
+            <div class="back">
+                <div class="vcenter-container">
+                    <div class="vcenter">
+                        <h2>Fanuc RobotDrill</h2>
+                        <hr>
+                        <p>Vertical Machining Centers</p>
+
+
+                    </div>
+                    <!-- End .vcenter -->
+                </div>
+                <!-- End .vcenter-container -->
+
+            </div>
+            <!-- End .back -->
+        </div>
+        <!-- End .member-wrapper -->
+    </div>
+    <!-- End .member -->
+</div>
+<!-- End .col-md-3 -->
+
+
+<div class="md-margin visible-xs clearfix"></div>
+<!-- space -->
+
+</div>
+<div class="row">
+
+<div class="col-md-12 col-sm-12 col-xs-12">
+<h4>Equipment List
+    <small></small>
+</h4>
+<div class="row" style="float:right;">
+    <strong>Click for details</strong>
+</div>
+<div class="md-margin"></div>
+<!--space -->
+
+<div class="accordion">
+<div class="accordion-group panel yellow">
+    <div class="accordion-header">
+        <div class="accordion-title">HORIZONTAL MACHINING CENTERS</div>
+        <!-- End .accourdion-title -->
+        <a class="accordion-btn" data-toggle="collapse" href="#collapse3-one"></a>
+    </div>
+    <!-- End .accordion-header -->
+
+    <div class="accordion-body collapse" id="collapse3-one">
+        <div class="accordion-body-wrapper">
+
+            <div class="bs-example" data-example-id="panel-without-body-with-table">
+                <div class="panel panel-default">
+                    <!-- Default panel contents -->
+                    <div class="panel-heading">HORIZONTAL MACHINING CENTERS</div>
+
+                    <!-- Table -->
+                    <table class="table">
+                        <thead>
+                        <tr>
+                            <th>Item #</th>
+                            <th>Description</th>
+
+                            <th>RPM</th>
+                            <th>Tool</th>
+                            <th>Travel</th>
+                            <th>Year</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        <tr>
+                            <th scope="row">1</th>
+                            <td>ENSHU JE-80 HORIZONTAL MILL</td>
+                            <td>40-8000</td>
+                            <td>CT-50/40 ATC</td>
+                            <td>31.49 X 31.49</td>
+                            <td>2001</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">2</th>
+                            <td>ENSHU JE-60 HORIZONTAL MILL</td>
+                            <td>40-13000</td>
+                            <td>CT-40 /60 ATC</td>
+                            <td>24 X 24 X 27</td>
+                            <td>2000</td>
+                        </tr>
+
+                        <tr>
+                            <th scope="row">3</th>
+                            <td>ENSHU JE-60 HORZ MILL Full B coordinate</td>
+                            <td>40-13000</td>
+                            <td>CT-40 /60 ATC</td>
+                            <td>24 X 24 X 27</td>
+                            <td>2000</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">4</th>
+                            <td>MAZAK HTC-400 HORIZONTAL MILL</td>
+                            <td>40-10000</td>
+                            <td>CT-40 /30 ATC</td>
+                            <td>24 X 24 X 27</td>
+                            <td>1997</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">5</th>
+                            <td>MATSUURA H.PLUS-300 PC26 PALLET SYSTEM</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td>2002</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">6</th>
+                            <td>MATSUURA H.PLUS-300 HRZ MILL</td>
+                            <td>40-14000</td>
+                            <td>CT-40 /240 ATC</td>
+                            <td>15.8 X 15.8</td>
+                            <td>2001</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">7</th>
+                            <td>MATSUURA H.PLUS-300 HRZ MILL Full B</td>
+                            <td>40-14000</td>
+                            <td>CT-40 /240 ATC</td>
+                            <td>5.8 X 15.8</td>
+                            <td>2005</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">8</th>
+                            <td>EMAKINO A51AX HORIZONTAL Full B</td>
+                            <td>40-15000</td>
+                            <td>CT-40 /132 ATC</td>
+                            <td>23.6 X 23.6</td>
+                            <td>2012</td>
+                        </tr>
+
+
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+    <!-- End .accordion-body-wrapper -->
+</div>
+<!-- End .accordion-body -->
+<!-- End .accordion-group -->
+</div>
+
+<div class="accordion">
+<div class="accordion-group panel orange">
+    <div class="accordion-header">
+        <div class="accordion-title">VERTICAL MACHINING CENTERS</div>
+        <!-- End .accourdion-title -->
+        <a class="accordion-btn" data-toggle="collapse" href="#collapse3-two"></a>
+    </div>
+    <!-- End .accordion-header -->
+
+    <div class="accordion-body collapse" id="collapse3-two">
+        <div class="accordion-body-wrapper">
+
+            <div class="bs-example" data-example-id="panel-without-body-with-table">
+                <div class="panel panel-default">
+                    <!-- Default panel contents -->
+                    <div class="panel-heading">VERTICAL MACHINING CENTERS</div>
+
+                    <!-- Table -->
+                    <table class="table">
+                        <thead>
+                        <tr>
+                            <th>Item #</th>
+                            <th>Description</th>
+                            <th>RPM</th>
+                            <th>Tool</th>
+                            <th>Travel</th>
+                            <th>Year</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        <tr>
+                            <th scope="row">9</th>
+                            <td>KITAMURA MY-3X FANUC VERT</td>
+                            <td>40-10000</td>
+                            <td>CT40 / 20 ATC</td>
+                            <td>32 X 32 X 18</td>
+                            <td>1997</td>
+                        </tr>
+
+                        <tr>
+                            <th scope="row">10</th>
+                            <td>KITAMURA MY-3X YASNAC VERT</td>
+                            <td>40-10000</td>
+                            <td>CT40 / 20 ATC</td>
+                            <td>32 X 32 X 18</td>
+                            <td>1997</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">11</th>
+                            <td>KITAMURA MY-3X FANUC VERT</td>
+                            <td>40-10000</td>
+                            <td>CT40 / 20 ATC</td>
+                            <td>32 X 32 X 18</td>
+                            <td>1997</td>
+                        </tr>
+
+                        <tr>
+                            <th scope="row">12</th>
+                            <td>MORI-SEIKI DURA VERTICAL 5100</td>
+                            <td>40-10000</td>
+                            <td>CT40 / 30 ATC</td>
+                            <td>40 X 20 X 25</td>
+                            <td>2010</td>
+                        </tr>
+
+                        <tr>
+                            <th scope="row">13</th>
+                            <td>AKIRA-SEIKI SV-1300 VERTICAL MILL</td>
+                            <td>40-8000</td>
+                            <td>CT40 / 25 ATC</td>
+                            <td>51.2 X 21.2 X 22</td>
+                            <td>2000</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">14</th>
+                            <td>AKIRA-SEIKI PERFORMA V-4A VERT MILL</td>
+                            <td>40-10000</td>
+                            <td>CT40 / 25 ATC</td>
+                            <td>41.3 X 21.2 X 22</td>
+                            <td>2000</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">15</th>
+                            <td>AKIRA-SEIKI PERFORMA V-3A VERT MILL</td>
+                            <td>40-10000</td>
+                            <td>CT40 / 20 ATC</td>
+                            <td>32 X 21.2 X 22</td>
+                            <td>1999</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">16</th>
+                            <td>AKIRA-SEIKI SV-1000 VERT MILL</td>
+                            <td>40-10000</td>
+                            <td>CT40 / 25 ATC</td>
+                            <td>40 X 20 X 22</td>
+                            <td>1998</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">17</th>
+                            <td>AKIRA-SEIKI SV-1000 VERT MILL</td>
+                            <td>40-10000</td>
+                            <td>CT40 / 30 ATC</td>
+                            <td>40 X 20 X 25</td>
+                            <td>1998</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">18</th>
+                            <td>AKIRA-SEIKI APC-600 PALLET VERT MILL</td>
+                            <td>40-10000</td>
+                            <td>CT40 / 20 ATC</td>
+                            <td>24 X 16 X 20</td>
+                            <td>1997</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">19</th>
+                            <td>SUPERMAX 4XP-24T VERT 4-AXIS</td>
+                            <td>40-8000</td>
+                            <td>CT40 / 25 ATC</td>
+                            <td>43 X 24 X 32</td>
+                            <td>1999</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">20</th>
+                            <td>YCI SUPERMAX TCV 41A VERT 2-PALLETS</td>
+                            <td>40-10000</td>
+                            <td>CT40 / 30 ATC</td>
+                            <td>50 X 22 X 24</td>
+                            <td>2006</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">21</th>
+                            <td>YCM XV1020A VERTICAL</td>
+                            <td>40-10000</td>
+                            <td>CT40 / 30 ATC</td>
+                            <td>40 X 20 X 25</td>
+                            <td>2006</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">22</th>
+                            <td>YCM XV1020A VERTICAL</td>
+                            <td>40-10000</td>
+                            <td>CT40 / 30 ATC</td>
+                            <td>40 X 20 X 25</td>
+                            <td>2012</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">23</th>
+                            <td>YCM XV560A VERTICAL</td>
+                            <td>40-10000</td>
+                            <td>CT40 / 21 ATC</td>
+                            <td>22 X 16 X 17.7</td>
+                            <td>2012</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">24</th>
+                            <td>YCI NSV 156A VERTICAL</td>
+                            <td>40-10000</td>
+                            <td>CT40 / 30 ATC</td>
+                            <td>60 X 25.6 X 24</td>
+                            <td>2012</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">25</th>
+                            <td>HAAS 2SS VERTICAL</td>
+                            <td>40-12000</td>
+                            <td>CT40 / 20 ATC</td>
+                            <td>30 X 20 X 20</td>
+                            <td>2012</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">26</th>
+                            <td>HAAS 3SS VERTICAL 4-AXIS</td>
+                            <td>40-12000</td>
+                            <td>CT40 / 25 ATC</td>
+                            <td>40 X 20 X 25</td>
+                            <td>2013</td>
+                        </tr>
+
+
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+
+        </div>
+        <!-- End .accordion-body-wrapper -->
+    </div>
+    <!-- End .accordion-body -->
+</div>
+<!-- End .accordion-group -->
+<div class="accordion">
+<div class="accordion-group panel red">
+    <div class="accordion-header">
+        <div class="accordion-title">ROBODRILL</div>
+        <!-- End .accourdion-title -->
+        <a class="accordion-btn" data-toggle="collapse" href="#collapse3-three"></a>
+    </div>
+    <!-- End .accordion-header -->
+
+    <div class="accordion-body collapse" id="collapse3-three">
+        <div class="accordion-body-wrapper">
+
+            <div class="bs-example" data-example-id="panel-without-body-with-table">
+                <div class="panel panel-default">
+                    <!-- Default panel contents -->
+                    <div class="panel-heading">ROBODRILL</div>
+
+                    <!-- Table -->
+                    <table class="table">
+                        <thead>
+                        <tr>
+                            <th>Item #</th>
+                            <th>Description</th>
+                            <th>RPM</th>
+                            <th>Tool</th>
+                            <th>Travel</th>
+                            <th>Qty</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+
+                        <tr>
+                            <th scope="row">27</th>
+                            <td>FANUC ROBODRILL T21iE</td>
+                            <td>40-10000</td>
+                            <td>BT30 / 21 ATC</td>
+                            <td>20 X 15.7 X 13</td>
+                            <td>2006</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">28</th>
+                            <td>FANUC ROBODRILL T21iE</td>
+                            <td>40-10000</td>
+                            <td>BT30 / 21 ATC</td>
+                            <td>20 X 15.7 X 13</td>
+                            <td>2007</td>
+                        </tr>
+                        <tr>
+
+                            <th scope="row">29</th>
+                            <td>FANUC ROBODRILL T21iFa</td>
+                            <td>40-10000</td>
+                            <td>BT30 / 21 ATC</td>
+                            <td>20 X 15.7 X 13</td>
+                            <td>2010</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">30</th>
+                            <td>FANUC ROBODRILL T21iE</td>
+                            <td>40-10000</td>
+                            <td>BT30 / 21 ATC</td>
+                            <td>20 X 15.7 X 13</td>
+                            <td>2006</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">31</th>
+                            <td>FANUC ROBODRILL T21iFLa 4-AXIS</td>
+                            <td>40-10000</td>
+                            <td>BT30 / 21 ATC</td>
+                            <td>27.5 X 15.7 X 13</td>
+                            <td>2009</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">32</th>
+                            <td>FANUC ROBODRILL T21iFa</td>
+                            <td>40-24000</td>
+                            <td>BT30 / 21 ATC</td>
+                            <td>20 X 15.7 X 13</td>
+                            <td>2012</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">33</th>
+                            <td>FANUC ROBODRILL T21iFa</td>
+                            <td>40-24000</td>
+                            <td>BT30 / 21 ATC</td>
+                            <td>20 X 15.7 X 13</td>
+                            <td>2012</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">34</th>
+                            <td>FANUC ROBODRILL T21iFa</td>
+                            <td>40-24000</td>
+                            <td>BT30 / 21 ATC</td>
+                            <td>20 X 15.7 X 13</td>
+                            <td>2012</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">35</th>
+                            <td>FANUC ROBODRILL T21iFa</td>
+                            <td>40-24000</td>
+                            <td>BT30 / 21 ATC</td>
+                            <td>20 X 15.7 X 13</td>
+                            <td>2012</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">36</th>
+                            <td>ARES-SEIKI ROBODRILL R500</td>
+                            <td>20-14000</td>
+                            <td>BT30 / 16 ATC</td>
+                            <td>20 X 15.7 X 13</td>
+                            <td>2006</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">37</th>
+                            <td>MATRIX XR45 ROBODRILL</td>
+                            <td>40-12000</td>
+                            <td>BT30 / 12 ATC</td>
+                            <td>12 X 12 X 13</td>
+                            <td>2011</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">38</th>
+                            <td>MATRIX XR510 ROBODRILL</td>
+                            <td>40-24000</td>
+                            <td>BT30 / 21 ATC</td>
+                            <td>20 X 15.7 X 13</td>
+                            <td>2012</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">39</th>
+                            <td>MATRIX XR510 ROBODRILL</td>
+                            <td>40-24000</td>
+                            <td>BT30 / 21 ATC</td>
+                            <td>20 X 15.7 X 13</td>
+                            <td>2012</td>
+                        </tr>
+
+
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+
+        </div>
+        <!-- End .accordion-body-wrapper -->
+    </div>
+    <!-- End .accordion-body -->
+</div>
+<!-- End .accordion-group -->
+</div>
+<div class="accordion">
+    <div class="accordion-group panel lightblue">
+        <div class="accordion-header">
+            <div class="accordion-title">CNC LATHE</div>
+            <!-- End .accourdion-title -->
+            <a class="accordion-btn" data-toggle="collapse" href="#collapse3-four"></a>
+        </div>
+        <!-- End .accordion-header -->
+
+        <div class="accordion-body collapse" id="collapse3-four">
+            <div class="accordion-body-wrapper">
+
+                <div class="bs-example" data-example-id="panel-without-body-with-table">
+                    <div class="panel panel-default">
+                        <!-- Default panel contents -->
+                        <div class="panel-heading">CNC LATHE</div>
+
+                        <!-- Table -->
+                        <table class="table">
+                            <thead>
+                            <tr>
+                                <th>Item #</th>
+                                <th>Description</th>
+                                <th>RPM</th>
+                                <th>Tool</th>
+                                <th>Travel</th>
+                                <th>Year</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                            <tr>
+                                <th scope="row">40</th>
+                                <td>FANUC ROBODRILL T21iE</td>
+                                <td>40-10000</td>
+                                <td>BT30 / 21 ATC</td>
+                                <td>20 X 15.7 X 13</td>
+                                <td>2006</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">41</th>
+                                <td>FANUC ROBODRILL T21iE</td>
+                                <td>40-10000</td>
+                                <td>BT30 / 21 ATC</td>
+                                <td>20 X 15.7 X 13</td>
+                                <td>2007</td>
+                            </tr>
+                            <tr>
+
+                                <th scope="row">42</th>
+                                <td>FANUC ROBODRILL T21iFa</td>
+                                <td>40-10000</td>
+                                <td>BT30 / 21 ATC</td>
+                                <td>20 X 15.7 X 13</td>
+                                <td>2010</td>
+                            </tr>
+
+
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+
+            </div>
+            <!-- End .accordion-body-wrapper -->
+        </div>
+        <!-- End .accordion-body -->
+        <!-- End .accordion-group -->
+    </div>
+</div>
+    <div class="accordion">
+        <div class="accordion-group panel green">
+            <div class="accordion-header">
+                <div class="accordion-title">EDM</div>
+                <!-- End .accourdion-title -->
+                <a class="accordion-btn" data-toggle="collapse" href="#collapse3-five"></a>
+            </div>
+            <!-- End .accordion-header -->
+
+            <div class="accordion-body collapse" id="collapse3-five">
+                <div class="accordion-body-wrapper">
+
+                    <div class="bs-example" data-example-id="panel-without-body-with-table">
+                        <div class="panel panel-default">
+                            <!-- Default panel contents -->
+                            <div class="panel-heading">EDM</div>
+
+                            <!-- Table -->
+                            <table class="table">
+                                <thead>
+                                <tr>
+                                    <th>Item #</th>
+                                    <th>Description</th>
+                                    <th>RPM</th>
+                                    <th>Tool</th>
+                                    <th>Travel</th>
+                                    <th>Year</th>
+                                </tr>
+                                </thead>
+                                <tbody>
+                                <tr>
+                                    <th scope="row">43</th>
+                                    <td>MAKINO WIRE EDM U-3</td>
+                                    <td></td>
+                                    <td></td>
+                                    <td>16 x 16</td>
+                                    <td>2014</td>
+                                </tr>
+
+                                </tbody>
+                            </table>
+                        </div>
+
+                    </div>
+                    <!-- End .accordion-body-wrapper -->
+                </div>
+                <!-- End .accordion-body -->
+
+            </div>
+            <!-- End .accordion-group -->
+
+        </div>
+        <!-- End .accordion -->
+
+
+    </div>
+</div>
+</div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <div style="float: right;">
+            <a href="images/ADEM/Machine-Tool-List-ADEM-LLC-2015-03.pdf" target="1411"><i class="fa fa-cloud-download"></i> &nbsp;&nbsp;<strong>Download List (PDF)</strong></a>
+        </div>
+        <div style="float: right;">
+        </div>
+    </div>
+</div>
+</div>
+</section>
+
+<div class="md-margin visible-xs clearfix"></div>
+<!-- space -->
+
+<div class="container img-container">
+    <div class="row text-center">
+        <img src="images/ADEM/ADEM-logo-m.jpg" HEIGHT="250px" alt="ADEM Logo" class="wow fadeInUpBig">
+    </div>
+    <!-- End .row -->
+</div>
+<!-- End .container -->
+
+<!-- Skills Section -->
+<div class="skills-container parallax" data-stellar-background-ratio="0.4">
+    <div class="overlaybg"></div>
+    <!-- End .overlaybg -->
+    <div class="parallax-content">
+        <div class="container">
+            <header class="parallax-header clearfix text-center">
+                <h2 class="parallax-title">Unlimited Possibilities of Engineering</h2>
+
+                <p class="parallax-desc">ADEM - Your Engineering Partner</p>
+            </header>
+            <div class="row">
+
+                <div class="col-md-3 col-sm-6 col-xs-6 circle-progress-container">
+                    <div class="circle-progress progress-animate">
+                        <input type="text" class="knob" data-width="160" data-height="160" data-readOnly="true"
+                               data-fgColor="#f8d61b" data-animateto="18" data-thickness=".06" data-animatespeed="1000">
+                    </div>
+                    <!-- End .circle-progress -->
+                    <h3 class="progress-title">Years' Experience</h3>
+                </div>
+                <!-- End .col-md-3 -->
+
+                <div class="col-md-3 col-sm-6 col-xs-6 circle-progress-container">
+                    <div class="circle-progress progress-animate">
+                        <input type="text" class="knob" data-width="160" data-height="160" data-readOnly="true"
+                               data-fgColor="#1bc4f5" data-animateto="43" data-thickness=".06" data-animatespeed="1400">
+                    </div>
+                    <!-- End .circle-progress -->
+                    <h3 class="progress-title">CNC Machines</h3>
+                </div>
+                <!-- End .col-md-3 -->
+
+                <div class="lg-margin visible-sm visible-xs hidden-xss clearfix"></div>
+                <!-- space -->
+
+                <div class="col-md-3 col-sm-6 col-xs-6 circle-progress-container">
+                    <div class="circle-progress progress-animate">
+                        <input type="text" class="knob" data-width="160" data-height="160" data-readOnly="true"
+                               data-fgColor="#c90e31" data-animateto="50" data-thickness=".06" data-animatespeed="1800">
+                    </div>
+                    <!-- End .circle-progress -->
+                    <h3 class="progress-title">Experienced Staff</h3>
+                </div>
+                <!-- End .col-md-3 -->
+
+                <div class="col-md-3 col-sm-6 col-xs-6 circle-progress-container">
+                    <div class="circle-progress progress-animate">
+                        <input type="text" class="knob" data-width="160" data-height="160" data-readOnly="true"
+                               data-fgColor="#09d33d" data-animateto="100" data-thickness=".06"
+                               data-animatespeed="2200">
+                    </div>
+                    <!-- End .circle-progress -->
+                    <h3 class="progress-title">% of Customer Satisfaction</h3>
+                </div>
+                <!-- End .col-md-3 -->
+
+            </div>
+            <!-- End .row -->
+        </div>
+        <!-- End .container -->
+    </div>
+    <!-- End parallax-content -->
+</div>
+<!-- End .countto-container -->
+
+<!-- Services Section -->
+<section id="services" class="section">
+<header class="container text-center">
+<h1 class="section-title">Services</h1>
+
+<p class="section-desc">
+
+
+    From your parts' engineering, concept design, detailed design, machining, finishing, assembly , integration
+    test and to pilot and volume manufacturing, ADEM assists you during the entire product manufacturing cycle.
+</p>     <br>
+
+
+<div id="our-services">
+<div class="container">
+    <div class="row">
+        <div class="col-md-3 col-sm-6">
+            <div class="service  wow fadeInUp" data-wow-delay="0.25s">
+                <div class="service-header">
+                    <span class="service-icon yellowbg"><i class="fa fa-certificate"></i></span>
+
+                    <h2>Define Task</h2>
+                </div>
+                <!-- End .services-header -->
+                <p>Understand client’s task mission to propose optimal manufacturing solutions.</p>
+            </div>
+            <!-- End .service -->
+        </div>
+        <!-- End .col-md-3 -->
+        <div class="col-md-3 col-sm-6">
+            <div class="service  wow fadeInUp" data-wow-delay="0.5s">
+                <div class="service-header">
+                    <span class="service-icon orangebg"><i class="fa fa-certificate"></i></span>
+
+                    <h2>Proof of Concept</h2>
+                </div>
+                <!-- End .services-header -->
+                <p>Create high level 3D model to get clients’ approval for prototyping</p>
+            </div>
+            <!-- End .service -->
+        </div>
+        <!-- End .col-md-3 -->
+        <div class="visible-sm clearfix md-margin"></div>
+        <!-- clear -->
+        <div class="col-md-3 col-sm-6">
+            <div class="service  wow fadeInUp" data-wow-delay="0.75s">
+                <div class="service-header">
+                    <span class="service-icon redbg"><i class="fa fa-certificate"></i></span>
+
+                    <h2>Detailed Design</h2>
+                </div>
+                <!-- End .services-header -->
+                <p>Prepare 3D model for manufacturing</p>
+            </div>
+            <!-- End .service -->
+        </div>
+        <!-- End .col-md-3 -->
+        <div class="col-md-3 col-sm-6">
+            <div class="service wow fadeInUp" data-wow-delay="1.00s">
+                <div class="service-header">
+                    <span class="service-icon lightbluebg"><i class="fa fa-certificate"></i></span>
+
+                    <h2>Machining</h2>
+                </div>
+                <!-- End .services-header -->
+                <p>Use advanced CNC technology for machining with ± 5 µm (±.005mm) accuracy </p>
+            </div>
+            <!-- End .service -->
+        </div>
+        <!-- End .col-md-3 -->
+    </div>
+    <!-- End .row -->
+
+    <div class="row">
+        <div class="col-md-3 col-sm-6">
+            <div class="service wow fadeInUp" data-wow-delay="0.5s">
+                <div class="service-header">
+                    <span class="service-icon bluebg"><i class="fa fa-certificate"></i></span>
+
+                    <h2>Finishing</h2>
+                </div>
+                <!-- End .services-header -->
+                <p>Welding and finishing outsourced to partners </p>
+            </div>
+            <!-- End .service -->
+        </div>
+        <!-- End .col-md-3 -->
+        <div class="col-md-3 col-sm-6">
+            <div class="service wow fadeInUp" data-wow-delay="0.75s">
+                <div class="service-header">
+                    <span class="service-icon purplebg"><i class="fa fa-certificate"></i></span>
+
+                    <h2>Assembly </h2>
+                </div>
+                <!-- End .services-header -->
+                <p>Kit and assemble even complex part.</p>
+            </div>
+            <!-- End .service -->
+        </div>
+        <!-- End .col-md-3 -->
+        <div class="visible-sm clearfix md-margin"></div>
+        <!-- clear -->
+        <div class="col-md-3 col-sm-6">
+            <div class="service  wow fadeInUp" data-wow-delay="1.0s">
+                <div class="service-header">
+                    <span class="service-icon lightgreenbg"><i class="fa fa-certificate"></i></span>
+
+                    <h2>Quality Control</h2>
+                </div>
+                <!-- End .services-header -->
+                <p>Reliability and consistency guaranteed by our experienced QA team</p>
+            </div>
+            <!-- End .service -->
+        </div>
+        <!-- End .col-md-3 -->
+        <div class="col-md-3 col-sm-6">
+            <div class="service wow fadeInUp" data-wow-delay="1.5s">
+                <div class="service-header">
+                    <span class="service-icon greenbg"><i class="fa fa-certificate"></i></span>
+
+                    <h2>Support</h2>
+                </div>
+                <!-- End .services-header -->
+                <p> An extension of your engineering team </p>
+            </div>
+            <!-- End .service -->
+        </div>
+        <!-- End .col-md-3 -->
+    </div>
+    <!-- End .row -->
+</div>
+<!-- Ênd .container -->
+
+
+<div class="container text-center">
+    <div class="row text-center">
+        <!--<br>-->
+        <h5><span class="highlight green"><b>A CASE STUDY OF OUR WORK</b></span></h5>
+
+        <!--<div class="col-md-12 col-sm-6">-->
+            <img src="images/ADEM/Mask-Fixture-a.gif" alt="Geass" class="img-responsive wow fadeInUpBig">
+
+        <!--</div>-->
+    </div>
+
+    <div class="md-margin visible-xs clearfix"></div>
+    <!-- space -->
+
+
+    <div class="row">
+        <br><br> <br><br>
+
+        <div class="col-md-3">
+
+            <div class="service  wow fadeInUp" data-wow-delay="0.25s">
+                <div class="service-header">
+
+                    <h2><span class="highlight yellow">1</span><br><br>Define Task</h2>
+                </div>
+                <!-- End .services-header -->
+                <p>Tooling for client's thin & fragile MEMS wafer singulation automation</p>
+            </div>
+            <!-- End .service -->
+        </div>
+        <!-- End .col-md-3 -->
+
+        <div class="col-md-3">
+            <div class="service  wow fadeInUp" data-wow-delay="0.5s">
+                <div class="service-header">
+                    <h2><span class="highlight orange">2</span><br><br>CAD Design</h2>
+                </div>
+                <!-- End .services-header -->
+                <p>Study spec and constraint to create a wafer mask fixturing 3D model for client's approval </p>
+            </div>
+            <!-- End .service -->
+        </div>
+        <!-- End .col-md-3 -->
+
+        <div class="col-md-3">
+            <div class="service  wow fadeInUp" data-wow-delay="0.75s">
+                <div class="service-header">
+                    <h2><span class="highlight red">3</span><br><br>Machining</h2>
+                </div>
+                <!-- End .services-header -->
+                <p>Use Fanuc RobotDrill with attached spindle 80,000 RPM, anodized</p>
+            </div>
+            <!-- End .service -->
+        </div>
+        <!-- End .col-md-3 -->
+
+        <div class="col-md-3">
+            <div class="service wow fadeInUp" data-wow-delay="1.00s">
+                <div class="service-header">
+                    <h2><span class="highlight lightblue">4</span><br><br>Assembly</h2>
+                </div>
+                <!-- End .services-header -->
+                <p>Assemble fixture clamps and other sensing devices </p>
+            </div>
+            <!-- End .service -->
+        </div>
+        <!-- End .col-md-3 -->
+    </div>
+    <!-- End .row -->
+
+    <div class="row">
+        <div class="col-md-3">
+            <div class="service wow fadeInUp" data-wow-delay="0.25s">
+                <div class="service-header">
+                    <h2><span class="highlight blue">5</span><br><br>Quality Assurance</h2>
+                </div>
+                <!-- End .services-header -->
+                <p>Use CMM to assure the pick up tool and fixture reach ± 5 µm (±.005mm) accuracy </p>
+            </div>
+            <!-- End .service -->
+        </div>
+        <!-- End .col-md-3 -->
+        <div class="col-md-3">
+            <div class="service wow fadeInUp" data-wow-delay="0.5s">
+                <div class="service-header">
+                    <h2><span class="highlight green">6</span><br><br>Integration Test</h2>
+                </div>
+                <!-- End .services-header -->
+                <p>Client run test in their tool or applicaiton </p>
+            </div>
+            <!-- End .service -->
+        </div>
+        <!-- End .col-md-3 -->
+        <div class="col-md-3">
+            <div class="service  wow fadeInUp" data-wow-delay="0.75s">
+                <div class="service-header">
+                    <h2><span class="highlight lightgreen">7</span><br><br>Result</h2>
+                </div>
+                <!-- End .services-header -->
+                <!--<p>Meeting client's task objective (thin wafer singulated)</p>-->
+                <p>Meeting client's task objective</p>
+            </div>
+            <!-- End .service -->
+        </div>
+        <!-- End .col-md-3 -->
+        <div class="col-md-3">
+            <div class="service wow fadeInUp" data-wow-delay="1.0s">
+                <div class="service-header">
+                    <h2><span class="highlight purple">8</span><br><br>Pilot Production</h2>
+                </div>
+                <!-- End .services-header -->
+                <p>Quote for client to decide move forward eith pilot run </p>
+            </div>
+            <!-- End .service -->
+        </div>
+        <!-- End .col-md-3 -->
+    </div>
+    <!-- End .row -->
+</div>
+<!-- End .container -->
+</div>
+</header>
+</section>
+<!-- End #our-services -->
+
+
+<!-- Portfolio Section -->
+<section id="portfolio" class="section">
+<header class="container text-center">
+    <h1 class="section-title">Portfolio</h1>
+
+    <p class="section-desc">
+        Equipped with state of the art CNC machine tools, including multi-spindle lathe and horizontal manufacturing
+        cells, enabling tight-tolerance work (±.005mm) on Aluminum, Stainless Steel, Titanium, exotic alloys and wide
+        variety of plastics...
+    </p>
+</header>
+
+<ul id="portfolio-filter" class="container text-center clearfix ">
+    <li><a href="#" class="active" data-filter="*">All</a></li>
+    <li><a href="#" data-filter=".micromachining">Micromachining</a></li>
+    <li><a href="#" data-filter=".Complex">Complex Machining</a></li>
+    <li><a href="#" data-filter=".large">Large Size machining</a></li>
+    <li><a href="#" data-filter=".model">Model</a></li>
+    <li><a href="#" data-filter=".assembly">Assembly</a></li>
+</ul>
+<!-- End .portfolio-filter -->
+
+<div id="portfolio-single-content" class="container"></div>
+<!-- End #portfolio-single-content -->
+
+<div id="portfolio-wrapper">
+
+<ul id="portfolio-item-container" class="clearfix" data-maxcolumn="4" data-rotateanimation="true"
+    data-animationclass="fadeInUpBig">
+
+<li class="portfolio-item animate-item micromachining" data-animate-time="80">
+    <div class="portfolio-item-wrapper">
+        <img src="images/ADEM/tinypart-1.jpg" alt="item 1">
+
+        <div class="portfolio-overlay yellowbg">
+            <div class="vcenter-container">
+                <div class="vcenter">
+                    <h2 class="portfolio-title">±.005mm Accuracy </h2>
+                </div>
+            </div>
+        </div>
+        <!-- End .portfolio-overlay -->
+    </div>
+    <!-- End .portfolio-item-wrapper -->
+</li>
+
+
+<li class="portfolio-item animate-item micromachining" data-animate-time="160">
+    <div class="portfolio-item-wrapper">
+        <img src="images/ADEM/TinyPart-RevisedPart.jpg" alt="item 2">
+
+        <div class="portfolio-overlay lightbluebg">
+            <div class="vcenter-container">
+                <div class="vcenter">
+                    <h2 class="portfolio-title">±.005mm Accuracy </h2>
+                </div>
+            </div>
+            <!-- End .portfolio-overlay -->
+        </div>
+        <!-- End .portfolio-item-wrapper -->
+    </div>
+    <!-- End .portfolio-overlay -->
+</li>
+
+
+<li class="portfolio-item animate-item micromachining" data-animate-time="160">
+    <div class="portfolio-item-wrapper">
+        <img src="images/ADEM/P1040271-socket.jpg" alt="item 2">
+
+        <div class="portfolio-overlay lightbluebg">
+            <div class="vcenter-container">
+                <div class="vcenter">
+                    <h2 class="portfolio-title">Precision small custom components </h2>
+                </div>
+            </div>
+            <!-- End .portfolio-overlay -->
+        </div>
+        <!-- End .portfolio-item-wrapper -->
+    </div>
+    <!-- End .portfolio-overlay -->
+</li>
+
+
+<li class="portfolio-item animate-item micromachining" data-animate-time="320">
+    <div class="portfolio-item-wrapper">
+        <img src="images/ADEM/P1040289-sample-10.jpg" alt="item 4">
+
+        <div class="portfolio-overlay lightgreenbg">
+            <div class="vcenter-container">
+                <div class="vcenter">
+                    <h2 class="portfolio-title">Precision small custom components </h2>
+                </div>
+            </div>
+            <!-- End .portfolio-overlay -->
+        </div>
+        <!-- End .portfolio-item-wrapper -->
+    </div>
+    <!-- End .portfolio-overlay -->
+</li>
+
+
+<li class="portfolio-item animate-item Complex" data-animate-time="400">
+    <div class="portfolio-item-wrapper">
+        <img src="images/ADEM/P1090053-sample-7.jpg" alt="item 5">
+
+        <div class="portfolio-overlay bluebg">
+            <div class="vcenter-container">
+                <div class="vcenter">
+                    <h2 class="portfolio-title">Small but complex part</h2>
+                </div>
+            </div>
+            <!-- End .portfolio-overlay -->
+        </div>
+        <!-- End .portfolio-item-wrapper -->
+    </div>
+    <!-- End .portfolio-overlay -->
+</li>
+
+
+<li class="portfolio-item animate-item Complex" data-animate-time="480">
+    <div class="portfolio-item-wrapper">
+        <img src="images/ADEM/P1090054-7-b.jpg" alt="item 6">
+
+        <div class="portfolio-overlay greenbg">
+            <div class="vcenter-container">
+                <div class="vcenter">
+                    <h2 class="portfolio-title">Small but complex part</h2>
+                </div>
+            </div>
+            <!-- End .portfolio-overlay -->
+        </div>
+        <!-- End .portfolio-item-wrapper -->
+    </div>
+    <!-- End .portfolio-overlay -->
+</li>
+
+<li class="portfolio-item animate-item Complex " data-animate-time="560">
+    <div class="portfolio-item-wrapper">
+        <img src="images/ADEM/P1090064-sample-8.jpg" alt="item 7">
+
+        <div class="portfolio-overlay orangebg">
+            <div class="vcenter-container">
+                <div class="vcenter">
+                    <h2 class="portfolio-title">Small but complex part</h2>
+                </div>
+            </div>
+            <!-- End .portfolio-overlay -->
+        </div>
+        <!-- End .portfolio-item-wrapper -->
+    </div>
+    <!-- End .portfolio-overlay -->
+</li>
+
+<li class="portfolio-item animate-item Complex " data-animate-time="640">
+    <div class="portfolio-item-wrapper">
+        <img src="images/ADEM/P1090051-sample-6.jpg" alt="item 8">
+
+        <div class="portfolio-overlay purplebg">
+            <div class="vcenter-container">
+                <div class="vcenter">
+                    <h2 class="portfolio-title">Small but complex part</h2>
+                </div>
+            </div>
+            <!-- End .portfolio-overlay -->
+        </div>
+        <!-- End .portfolio-item-wrapper -->
+    </div>
+    <!-- End .portfolio-overlay -->
+</li>
+
+
+<li class="portfolio-item animate-item Complex " data-animate-time="720">
+    <div class="portfolio-item-wrapper">
+        <img src="images/ADEM/P1090038-sample-2.jpg" alt="item 9">
+
+        <div class="portfolio-overlay yellowbg">
+            <div class="vcenter-container">
+                <div class="vcenter">
+                    <h2 class="portfolio-title">Machined from solid (Dia? Thick?)</h2>
+                </div>
+            </div>
+            <!-- End .portfolio-overlay -->
+        </div>
+        <!-- End .portfolio-item-wrapper -->
+    </div>
+    <!-- End .portfolio-overlay -->
+</li>
+
+<li class="portfolio-item animate-item Complex " data-animate-time="800">
+    <div class="portfolio-item-wrapper">
+        <img src="images/ADEM/P1090039-sample-3.jpg" alt="item 10">
+
+        <div class="portfolio-overlay lightbluebg">
+            <div class="vcenter-container">
+                <div class="vcenter">
+                    <h2 class="portfolio-title">Machined from solid (Depth??_Wall thick?)</h2>
+                </div>
+            </div>
+            <!-- End .portfolio-overlay -->
+        </div>
+        <!-- End .portfolio-item-wrapper -->
+    </div>
+    <!-- End .portfolio-overlay -->
+</li>
+
+<li class="portfolio-item animate-item Complex " data-animate-time="880">
+    <div class="portfolio-item-wrapper">
+        <img src="images/ADEM/P1090042-sample-4.jpg" alt="item 11">
+
+        <div class="portfolio-overlay lightgreenbg">
+            <div class="vcenter-container">
+                <div class="vcenter">
+                    <h2 class="portfolio-title">Machined from solid (Depth??_Wall thick?)</h2>
+                </div>
+            </div>
+            <!-- End .portfolio-overlay -->
+        </div>
+        <!-- End .portfolio-item-wrapper -->
+    </div>
+    <!-- End .portfolio-overlay -->
+</li>
+
+<li class="portfolio-item animate-item Complex " data-animate-time="960">
+    <div class="portfolio-item-wrapper">
+        <img src="images/ADEM/P1090049-sample-5.jpg" alt="item 12">
+
+        <div class="portfolio-overlay purplebg">
+            <div class="vcenter-container">
+                <
+                <div class="vcenter">
+                    <h2 class="portfolio-title">Complex part Lx W X Hmm</h2>
+                </div>
+            </div>
+            <!-- End .portfolio-overlay -->
+        </div>
+        <!-- End .portfolio-item-wrapper -->
+    </div>
+    <!-- End .portfolio-overlay -->
+</li>
+
+<li class="portfolio-item animate-item Complex large" data-animate-time="960">
+    <div class="portfolio-item-wrapper">
+        <img src="images/ADEM/sample-10-engine-housing" alt="item 12">
+
+        <div class="portfolio-overlay purplebg">
+            <div class="vcenter-container">
+                <div class="vcenter">
+                    <h2 class="portfolio-title">Big part 398 x 322 x 145mm</h2>
+                </div>
+            </div>
+            <!-- End .portfolio-overlay -->
+        </div>
+        <!-- End .portfolio-item-wrapper -->
+    </div>
+    <!-- End .portfolio-overlay -->
+</li>
+
+
+<li class="portfolio-item animate-item Complex large" data-animate-time="960">
+    <div class="portfolio-item-wrapper">
+        <img src="images/ADEM/P1090035-sample-1.jpg" alt="item 12">
+
+        <div class="portfolio-overlay purplebg">
+            <div class="vcenter-container">
+                <div class="vcenter">
+                    <h2 class="portfolio-title">Big part 1223 x 295 x 92mm</h2>
+                </div>
+            </div>
+            <!-- End .portfolio-overlay -->
+        </div>
+        <!-- End .portfolio-item-wrapper -->
+    </div>
+    <!-- End .portfolio-overlay -->
+</li>
+
+<li class="portfolio-item animate-item assembly" data-animate-time="960">
+    <div class="portfolio-item-wrapper">
+        <img src="images/ADEM/Vortex-wand-bottom.jpg" alt="item 12">
+
+        <div class="portfolio-overlay purplebg">
+            <div class="vcenter-container">
+                <
+                <div class="vcenter">
+                    <h2 class="portfolio-title">Assembly Sample (Vortex Wand)</h2>
+                </div>
+            </div>
+            <!-- End .portfolio-overlay -->
+        </div>
+        <!-- End .portfolio-item-wrapper -->
+    </div>
+    <!-- End .portfolio-overlay -->
+</li>
+
+<li class="portfolio-item animate-item assembly" data-animate-time="960">
+    <div class="portfolio-item-wrapper">
+        <img src="images/ADEM/edge-grip-aligner-top-view-s.jpg" alt="item 12">
+
+        <div class="portfolio-overlay purplebg">
+            <div class="vcenter-container">
+                <div class="vcenter">
+                    <h2 class="portfolio-title">Assembly Sample (Wafer Aligner)</h2>
+                </div>
+            </div>
+            <!-- End .portfolio-overlay -->
+        </div>
+        <!-- End .portfolio-item-wrapper -->
+    </div>
+    <!-- End .portfolio-overlay -->
+</li>
+
+<li class="portfolio-item animate-item Complex large model" data-animate-time="160">
+    <div class="portfolio-item-wrapper">
+        <img src="images/ADEM/model-1.jpg" alt="item 2">
+
+        <div class="portfolio-overlay lightbluebg">
+            <div class="vcenter-container">
+                <div class="vcenter">
+                    <a href="projects/project2.html" title="Nam facilisis condimentum" class="open-btn"></a>
+
+                    <div class="vcenter">
+                        <h2 class="portfolio-title">Sample 3D Model </h2>
+                    </div>
+                </div>
+                <!-- End .portfolio-overlay -->
+            </div>
+            <!-- End .portfolio-item-wrapper -->
+        </div>
+        <!-- End .portfolio-overlay -->
+    </div>
+</li>
+
+<li class="portfolio-item animate-item Complex model" data-animate-time="240">
+    <div class="portfolio-item-wrapper">
+        <img src="images/ADEM/model-2.jpg" alt="item 3">
+
+        <div class="portfolio-overlay redbg">
+            <div class="vcenter-container">
+                <div class="vcenter">
+                    <h2 class="portfolio-title">Sample 3D Model</h2>
+                </div>
+            </div>
+            <!-- End .portfolio-overlay -->
+        </div>
+        <!-- End .portfolio-item-wrapper -->
+    </div>
+</li>
+
+<li class="portfolio-item animate-item Complex model" data-animate-time="320">
+    <div class="portfolio-item-wrapper">
+        <img src="images/ADEM/model-3.jpg" alt="item 4">
+
+        <div class="portfolio-overlay lightgreenbg">
+            <div class="vcenter-container">
+                <div class="vcenter">
+                    <h2 class="portfolio-title">Sample 3D Model</h2>
+                </div>
+            </div>
+            <!-- End .portfolio-overlay -->
+        </div>
+        <!-- End .portfolio-item-wrapper -->
+    </div>
+    <!-- End .portfolio-overlay -->
+</li>
+
+<li class="portfolio-item animate-item Complex model large " data-animate-time="80">
+    <div class="portfolio-item-wrapper">
+        <img src="images/ADEM/model-4.jpg" alt="item 1">
+
+        <div class="portfolio-overlay yellowbg">
+            <div class="vcenter-container">
+                <div class="vcenter">
+                    <h2 class="portfolio-title">Sample 3D Model</h2>
+                </div>
+            </div>
+            <!-- End .portfolio-overlay -->
+        </div>
+        <!-- End .portfolio-item-wrapper -->
+    </div>
+    <!-- End .portfolio-overlay -->
+</li>
+</ul>
+</div>
+</section>
+
+<!-- Contact Us Section -->
+<section id="contactus" class="section">
+    <header class="container text-center">
+        <h1 class="section-title">Contact Us</h1>
+
+        <p class="section-desc">
+            Get in touch with us for your engineering and manufacturing needs.
+        </p>
+    </header>
+    <div id="map"></div>
+    <!-- End #map -->
+
+    <div class="lg-margin2x"></div>
+    <!-- space -->
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4 col-sm-4">
+                <div class="contact-info-box text-center">
+                    <h3>Addresses</h3>
+                    <span class="contact-info-icon yellowbg"><i class="fa fa-map-marker"></i></span>
+                    <ul class="contact-info-list">
+                        <li>1040 Di Giulio Avenue <br>
+                            Santa Clara, CA 95050, USA
+                        </li>
+
+                    </ul>
+                </div>
+                <!-- End .contact-info-box -->
+            </div>
+            <!-- End .col-md-4 -->
+
+            <div class="md-margin clearfix visible-xs"></div>
+            <!--space -->
+
+            <div class="col-md-4 col-sm-4">
+                <div class="contact-info-box text-center">
+                    <h3>Call Us</h3>
+                    <span class="contact-info-icon lightbluebg"><i class="fa fa-mobile-phone"></i></span>
+                    <ul class="contact-info-list">
+                        <li><span class="highlight lightblue">Call Us for a free quote!</span></li>
+                        <li>Phone: +1 (408) 727-8955 <br>
+                            Fax: +1 (408) 727-2055
+                        </li>
+                        <li>Boris Kesil, Ext. 151</li>
+                        <li>Jacob Obolsky, Ext. 112</li>
+                        <li>Val Sokolsky, Ext. 153</li>
+                    </ul>
+                </div>
+                <!-- End .contact-info-box -->
+            </div>
+            <!-- End .col-md-4 -->
+
+            <div class="md-margin clearfix visible-xs"></div>
+            <!--space -->
+
+            <div class="col-md-4 col-sm-4">
+                <div class="contact-info-box text-center">
+                    <h3>Quick Contact</h3>
+                    <span class="contact-info-icon redbg"><i class="fa fa-envelope-o"></i></span>
+                    <ul class="contact-info-list">
+                        <li><a href="mailto:boris.k@ademllc.com">boris.k@ademllc.com</a></li>
+                        <li><a href="mailto:jobolsky@ademllc.com">jobolsky@ademllc.com</a></li>
+                        <li><a href="mailto:val_sokolsky@ademllc.com">val_sokolsky@ademllc.com</a></li>
+
+                        <li><em class="highlight red">Skype:</em> BorisKesil</li>
+                    </ul>
+                </div>
+                <!-- End .contact-info-box -->
+            </div>
+            <!-- End .col-md-4 -->
+        </div>
+        <!-- End .row -->
+    </div>
+    <!-- End .container -->
+
+    <div class="md-margin2x"></div>
+    <!-- space -->
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4 col-sm-4">
+                <div class="contact-info-box text-center">
+                    <h3>Subsidiary</h3>
+                    <a href="http://www.protoselectronics.com/index.html" target="protos" class="footer-logo" title="Protos Electronics"><img
+                            src="images/ADEM/ProtosLogo_TM.jpg" height="100px" alt="Protos Electronics Logo"></a>
+                    <ul class="contact-info-list">
+                        <li><h6>Protos Electonics </h6>
+                           A Test Interfaces/Socket Provider
+                        </li>
+
+                    </ul>
+                </div>
+                <!-- End .contact-info-box -->
+            </div>
+            <!-- End .col-md-4 -->
+
+            <div class="md-margin clearfix visible-xs"></div>
+            <!--space -->
+
+            <div class="col-md-4 col-sm-4">
+                <div class="contact-info-box text-center">
+                    <h3>Partner</h3>
+                    <a href="http://quartetmechanics.com/QM2014/HTML/index.html"  class="footer-logo" title="Quartet Mechanics- Unlimited Wafer Handling Possibilities"><img
+                            src="images/ADEM/QM-Logo.jpg" height="100px" alt="Quartet Mechanics Logo"></a>
+                    <ul class="contact-info-list">
+                        <li><h6>Quartet Mechanics, Inc. </h6>
+                            A Microlevel Cleanroom Automation Provider
+                        </li>
+
+                    </ul>
+                </div>
+                <!-- End .contact-info-box -->
+            </div>
+            <!-- End .col-md-4 -->
+
+            <div class="md-margin clearfix visible-xs"></div>
+            <!--space -->
+
+            <div class="col-md-4 col-sm-4">
+                <div class="contact-info-box text-center">
+                    <h3>Partner</h3>
+                    <a href="http://www.neovisionllc.com/index.asp" class="footer-logo" title="NeoVision"><img
+                            src="images/ADEM/NeoVisionLogo.gif" height="100px" alt="NeoVisionLogo"></a>
+                    <ul class="contact-info-list">
+                        <li><h5>NeoVsion LLC </h5>
+                          A Metrology & Inspection Technology Innovator
+                        </li>
+                        </ul>
+                </div>
+                <!-- End .contact-info-box -->
+            </div>
+            <!-- End .col-md-4 -->
+        </div>
+        <!-- End .row -->
+    </div>
+    <!-- End .container -->
+</section>
+
+
+<div class="md-margin visible-xs clearfix"></div>
+<!-- space -->
+
+
+
+
+<footer id="footer" class="pattern8">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <a href="index.html" class="footer-logo" title="ADEM - Unlimited Engineering Possibilities"><img
+                        src="images/ADEM/ADEM-logo-s.png" alt="ADEM Logo"></a>
+            </div>
+            <!-- End .col-md-12 -->
+        </div>
+        <!-- End .row -->
+
+
+        <div class="row">
+            <div class="col-md-12">
+                <p>All rights reserved &copy; <a href="#" title="ADEM LLC">ADEM LLC</a></p>
+                <span class="footer-date highlight yellow">2015</span>
+            </div>
+            <!-- End .col-md-12 -->
+        </div>
+        <!-- End .row -->
+    </div>
+    <!-- End .container -->
+</footer>
+
+</div>
+<!-- End #wrapper -->
+
+<!-- Scroll Top Button -->
+<a href="#home" id="scroll-top" class="add-tooltip" data-placement="top" title="Go to top"><i
+        class="fa fa-angle-double-up"></i></a>
+
+<!-- Plugins -->
+<script src="js/bootstrap.min.js"></script>
+<script src="js/plugins.js"></script>
+<script src="js/twitter/jquery.tweet.min.js"></script>
+<script src="js/jquery.mb.YTPlayer.js"></script>
+<script src="js/main.js"></script>
+
+<!-- Google map javascript api v3 -->
+<script src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+
+<script>
+    /*----------------------------------------------------*/
+    //* Google javascript api v3  -- map */
+    /*----------------------------------------------------*/
+    (function () {
+        "use strict";
+
+        if (document.getElementById("map")) {
+            var locations = [
+                ['<div class="map-info-box"><ul class="contact-info-list"><li><span><i class="fa fa-home fa-fw"></i></span> ADEM LLC, 1040 Di Giulio Avenue Santa Clara, CA 95050, USA </li><li><span><i class="fa fa-phone fa-fw"></i></span> +1 408 727-8955 </li></ul></div>', 37.360393, -121.950776, 9]
+
+            ];
+
+            var map = new google.maps.Map(document.getElementById('map'), {
+                zoom: 13,
+                center: new google.maps.LatLng(37.36, -121.95),
+                scrollwheel: false,
+                mapTypeId: google.maps.MapTypeId.ROADMAP
+            });
+
+            var infowindow = new google.maps.InfoWindow();
+
+
+            var marker, i;
+
+            for (i = 0; i < locations.length; i++) {
+                marker = new google.maps.Marker({
+                    position: new google.maps.LatLng(locations[i][1], locations[i][2]),
+                    map: map,
+                    animation: google.maps.Animation.DROP,
+                    icon: 'images/pin.png'
+                });
+
+                google.maps.event.addListener(marker, 'click', (function (marker, i) {
+                    return function () {
+                        infowindow.setContent(locations[i][0]);
+                        infowindow.open(map, marker);
+                    }
+                })(marker, i));
+            }
+        }
+
+    }());
+
+    $(function () {
+        // Homepage slider
+
+        /* testimonials carousel - index-two.html */
+        $('.owl-carousel.home-text-slider').owlCarousel({
+            singleItem: true,
+            slideSpeed: 600,
+            autoPlay: 18000,
+            stopOnHover: true,
+            navigation: false,
+            pagination: true,
+            responsive: true,
+            autoHeight: false,
+            transitionStyle: "backSlide",
+            beforeInit: function () {
+                /* Fittext for slider*/
+                $('.home-text-slider').fitText(1.1, {minFontSize: '50px', maxFontSize: '110px' });
+            }
+
+        });
+
+
+    });
+</script>
+
+
+</body>
+</html>
